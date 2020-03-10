@@ -1,3 +1,4 @@
+
 def square(x):
     """ square numpy array
     
