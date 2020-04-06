@@ -3,7 +3,7 @@
 Our project is titled analysis of the commute in Denmark.
 In this project we want to investigate the amount of commute in Denmark, both by looking at the long distance commuters and also on the general commuting.
 
-The analysis of the project can be seen from running [dataproject22.ipynb](dataproject22.ipynb).
+The analysis of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
 We used data pendling1.xlsx downloaded from statistikbanken.dk/
 
