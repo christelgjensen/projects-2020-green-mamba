@@ -2,7 +2,7 @@
 
 This repository include the following
 
-* [/inauguralproject](/inauguralproject): The inaugural project
+* [/inauguralproject](/Project 0: The inaugural project): The inaugural project
 * [/dataproject](/dataproject): The data analysis project where we arrange data from Statistics Denmark regarding
 * [/modelproject](/modelproject): The model analysis project where we simulate a general Solow model
 * [/examproject](/examproject):  The exam project is found in the folder 
