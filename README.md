@@ -7,5 +7,3 @@ This repository include the following
 * [Project 2: Model Analysis Project](/modelproject): The model analysis project where we simulate a general Solow model
 * [Exam project](/examproject):  The exam project where we
 * Feedback.txt file: A list of the groups each group member have given peer feedback to
-
-* [/binder](/binder/): The folder is used by mybinder.org to setup an interactive version of your repository. For details see this [guide](https://numeconcopenhagen.netlify.com/guides/mybinder/).
