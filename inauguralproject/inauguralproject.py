@@ -1,4 +1,3 @@
-
 def square(x):
     """ square numpy array
     
@@ -11,6 +10,6 @@ def square(x):
         y (ndarray): output array
     
     """
-    
+
     y = x**2
     return y
